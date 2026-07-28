@@ -1,0 +1,14 @@
+{
+  "name": "extension-astc",
+  "url": "https://github.com/Brenninho123/extension-astc",
+  "license": "Apache-2.0",
+  "tags": ["cross", "native", "texture", "astc", "opengl"],
+  "description": "Haxe extension for loading and using ASTC compressed textures",
+  "classPath": "src",
+  "version": "0.0.1",
+  "releasenote": "Initial scaffold",
+  "contributors": ["Brenninho123"],
+  "dependencies": {
+    "lime": ""
+  }
+}
